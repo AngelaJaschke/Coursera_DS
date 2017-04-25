@@ -1,0 +1,25 @@
+---
+title: "Test_Doc"
+author: "AngelaJaschke"
+date: "25 April 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## I'm playing around with markdown
+
+Just to see if it works.
+
+### Did it?
+
+* Probably
+* I like lists
+* Very pretty
+
+### Now if only I knew stuff about R
+
+## Will try to push to GitHub!
+
